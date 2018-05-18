@@ -13,4 +13,5 @@ script:
   - mkdir build && cd build
   - cmake .. -DCMAKE_CXX_COMPILER=g++-7
   - cmake --build . -- -j2
-
+  - python --version
+  - python3 --version
