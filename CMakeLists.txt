@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.9.4)
+cmake_minimum_required(VERSION 3.9.2)
 
 # do not allow any compiler specific c++ extensions
 set(CMAKE_CXX_EXTENSIONS OFF)
